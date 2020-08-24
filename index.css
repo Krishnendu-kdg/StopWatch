@@ -1,0 +1,52 @@
+body{
+    background-color: aquamarine;
+}
+
+.container
+{
+    align-items: center;
+}
+.stopwatch
+{
+    margin-top:40vh;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    width:40vw;
+    height:10vh;
+    padding-top: 3px;;
+    /* text-align: center; */
+    /* padding-top:3px; */
+    /* padding-bottom: 3px;; */
+}
+
+.time
+{
+    text-align: center;
+    /* font-weight: 1000;
+    font-size: 1rem;*/
+} 
+.stop
+{
+    background-color: red;
+}
+
+.reset
+{
+    background-color: black;
+}
+
+.start
+{
+    background-color: green;
+}
+
+.mark-the-time
+{
+    background-color: brown;
+ 
+}
+
+.marked-times-heading
+{
+    color:red;
+}
